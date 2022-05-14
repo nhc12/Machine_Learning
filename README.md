@@ -18,4 +18,4 @@
       *  https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.EasyEnsembleClassifier.html
       *  https://www.analyticsvidhya.com/blog/2021/12/a-detailed-guide-to-ensemble-learning/
       *  https://stackoverflow.com/questions/53032754/python-sklearn-accuracy-score-name-not-defined 
-  6. Special note for submission: Please consider the one day delay in submission was due to a a personal COVID-19 result during the week of preparation for this homework which didn't allow me to be at 100% to work on this homework. I kindly request to not consider a penalty for the short delay on this submission
+  6. Special note for submission: Please consider the one day delay in submission was due to a a personal COVID-19 positive result during the week of preparation for this homework which didn't allow me to be at 100% to work on this assignment. I kindly request to not consider a penalty for the short delay on this submission
